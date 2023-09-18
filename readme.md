@@ -1,1 +1,3 @@
-This program was developed for working only in my PC, trying to run it in another device may show UI desing error or fails changing IPv4 due to the different name of network adapter.
+## About this program
+
+This script was made for me in order to change easier my IPv4 settings on one specific adapter when I used to change from buildings with different networks. Now, I have updated it to be used by anyone who find it useful.
